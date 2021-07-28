@@ -613,8 +613,8 @@
          },
          "last_updated":"1625695530"
       },
-      "45":{
-         "title":"Human Cordyceps (Epilogue)",
+      "45.1":{
+         "title":"Human Cordyceps (Epilogue, Part 1)",
          "volume":"8",
          "groups":{
             "No Group Scanlation":[
@@ -622,6 +622,15 @@
             ]
          },
          "last_updated":"1625695530"
+      },
+      "45.2":{
+         "title":"Human Cordyceps (Epilogue, Part 2)",
+         "volume":"8",
+         "groups":{
+            "No Group Scanlation":[
+"https://i.ibb.co/NtZk7Xf/002.jpg","https://i.ibb.co/3YksQSx/003.jpg","https://i.ibb.co/MDXyTcS/004.jpg","https://i.ibb.co/dkp0rYp/006.jpg","https://i.ibb.co/th3Ybw8/007.jpg","https://i.ibb.co/dGwBh72/008.jpg","https://i.ibb.co/W3Q5FkV/009.jpg","https://i.ibb.co/dbNLSDZ/010.jpg","https://i.ibb.co/0GRHxqZ/011.jpg","https://i.ibb.co/ZdVXPFb/012.jpg","https://i.ibb.co/w0XV966/013.jpg","https://i.ibb.co/DWV5TNC/014.jpg","https://i.ibb.co/N6G1f7v/015.jpg","https://i.ibb.co/4gSGQCQ/016.jpg","https://i.ibb.co/R6yb576/50.jpg"]
+         },
+         "last_updated":"1627507342"
       }
   }
 }
