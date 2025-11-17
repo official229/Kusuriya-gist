@@ -231,73 +231,274 @@
     "27": {
       "title": "Cosmetics",
       "volume": "6",
-      "last_updated": "1563655074",
+      "last_updated": "1763414150",
       "groups": {
-        "No Group Scanlation": "/proxy/api/imgur/chapter/QE7OUdi/"
+        "No Group Scanlation": [
+          "https://i.ibb.co/7JksQM0C/01.jpg",
+          "https://i.ibb.co/b5Q9nw31/02.jpg",
+          "https://i.ibb.co/SwSHvZy2/03.jpg",
+          "https://i.ibb.co/QFdLJRdc/04.jpg",
+          "https://i.ibb.co/nN74mwDN/05.jpg",
+          "https://i.ibb.co/PR1pJgL/06.jpg",
+          "https://i.ibb.co/Cpg3gQqT/07.jpg",
+          "https://i.ibb.co/zhvvqrfP/08.jpg",
+          "https://i.ibb.co/CpMRMwLb/09.jpg",
+          "https://i.ibb.co/Vc6k4bZV/10.jpg",
+          "https://i.ibb.co/2YLg7xmr/11.jpg",
+          "https://i.ibb.co/rq3jxDF/12.jpg",
+          "https://i.ibb.co/rVGMtnM/13.jpg",
+          "https://i.ibb.co/fYZwMwRt/14.jpg",
+          "https://i.ibb.co/yFY5wYGq/15.jpg",
+          "https://i.ibb.co/mVZ8M1r7/16.jpg",
+          "https://i.ibb.co/dJ7KJh0g/17.jpg",
+          "https://i.ibb.co/3yQs4L2L/18.jpg",
+          "https://i.ibb.co/C5F5kQ6Y/19.jpg",
+          "https://i.ibb.co/ZzT98vyv/20.jpg",
+          "https://i.ibb.co/tPq5Z1vJ/21.jpg",
+          "https://i.ibb.co/wZZs6Sd2/22.jpg",
+          "https://i.ibb.co/1th8Fb1B/23.jpg"
+        ]
       }
     },
     "28.1": {
       "title": "Walking the Streets",
       "volume": "6",
-      "last_updated": "1564968953",
+      "last_updated": "1763414113",
       "groups": {
-        "m00nr4bb1t": "/proxy/api/imgur/chapter/nizKjo3/"
+        "m00nr4bb1t": [
+          "https://i.ibb.co/svd2gsmD/01.jpg",
+          "https://i.ibb.co/LXNfNT4x/02.jpg",
+          "https://i.ibb.co/PsZcQVCF/03.jpg",
+          "https://i.ibb.co/VP3cm6c/04.jpg",
+          "https://i.ibb.co/FqYf3byJ/05.jpg",
+          "https://i.ibb.co/hx4nWNkK/06.jpg",
+          "https://i.ibb.co/nqdc3hG8/07.jpg",
+          "https://i.ibb.co/8nm5bGgj/08.jpg",
+          "https://i.ibb.co/ccWL9LWL/10.jpg",
+          "https://i.ibb.co/TMwcdZZd/11.jpg",
+          "https://i.ibb.co/4wSG0kg8/12.jpg",
+          "https://i.ibb.co/H06JQQ2/13.jpg",
+          "https://i.ibb.co/1frT54k7/14.jpg",
+          "https://i.ibb.co/jPvJXBrv/15.jpg",
+          "https://i.ibb.co/LXQ00Bdb/16.jpg",
+          "https://i.ibb.co/9HKXRYLG/17.jpg",
+          "https://i.ibb.co/rGLjpMkM/18.jpg",
+          "https://i.ibb.co/dJrxt1s4/19.jpg",
+          "https://i.ibb.co/TxdF76Jn/20.jpg",
+          "https://i.ibb.co/pBvxNwvP/21.jpg",
+          "https://i.ibb.co/vxPkvw4T/22.jpg",
+          "https://i.ibb.co/LXk9yhgh/23.jpg"
+        ]
       }
     },
     "28.2": {
       "title": "A Stroll Through The City (Final Part)",
       "volume": "6",
-      "last_updated": "1567558582",
+      "last_updated": "1763414076",
       "groups": {
-        "No Group Scanlation": "/proxy/api/imgur/chapter/uLifHf5/"
+        "No Group Scanlation": [
+          "https://i.ibb.co/B2JhN0SP/01.jpg",
+          "https://i.ibb.co/TDFcxqd5/02.jpg",
+          "https://i.ibb.co/tT30x4K1/03.jpg",
+          "https://i.ibb.co/Cj9WJVK/04.jpg",
+          "https://i.ibb.co/G3BDzW8C/05.jpg",
+          "https://i.ibb.co/fGkzdvB6/06.jpg",
+          "https://i.ibb.co/JwzfmBDS/07.jpg",
+          "https://i.ibb.co/gbZXjXtz/08.jpg",
+          "https://i.ibb.co/7JDpKv5y/09.jpg",
+          "https://i.ibb.co/s9ymPgcw/10.jpg",
+          "https://i.ibb.co/XZZVRWQq/11.jpg",
+          "https://i.ibb.co/k61TKrh0/12.jpg",
+          "https://i.ibb.co/HTv6kvPr/13.jpg",
+          "https://i.ibb.co/yFssFkpk/14.jpg",
+          "https://i.ibb.co/v6stbxbR/15.jpg",
+          "https://i.ibb.co/qYk1xxWK/16.jpg",
+          "https://i.ibb.co/PdCZvTb/17.jpg",
+          "https://i.ibb.co/xS96r57c/18.jpg",
+          "https://i.ibb.co/Q0PfG23/19.jpg",
+          "https://i.ibb.co/B5SKTL6s/20.jpg"
+        ]
       }
     },
     "29.1": {
       "title": "Syphilis (Part 1)",
       "volume": "6",
-      "last_updated": "1572639242",
+      "last_updated": "1763414037",
       "groups": {
-        "No Group Scanlation": "/proxy/api/imgur/chapter/1NUyAbM/"
+        "No Group Scanlation": [
+          "https://i.ibb.co/yBm58rPw/01.jpg",
+          "https://i.ibb.co/7JjPg70r/02.jpg",
+          "https://i.ibb.co/p6FcQGSY/03.jpg",
+          "https://i.ibb.co/W4wKYxjz/04.jpg",
+          "https://i.ibb.co/JjNpCPVp/05.jpg",
+          "https://i.ibb.co/QFG8fMYw/06.jpg",
+          "https://i.ibb.co/jtH4K5H/07.jpg",
+          "https://i.ibb.co/5WGDZm9P/08.jpg",
+          "https://i.ibb.co/5XK0smtY/09.jpg",
+          "https://i.ibb.co/VW9GtxZY/10.jpg",
+          "https://i.ibb.co/TxSzzk7q/11.jpg",
+          "https://i.ibb.co/LzQR233r/12.jpg",
+          "https://i.ibb.co/vvqd6qSn/13.jpg",
+          "https://i.ibb.co/G499Bw3D/14.jpg",
+          "https://i.ibb.co/nqmN590G/15.jpg",
+          "https://i.ibb.co/mFHLsxrC/16.jpg"
+        ]
       }
     },
     "29.2": {
       "title": "Syphilis (Part 2)",
       "volume": "6",
-      "last_updated": "1576194327",
+      "last_updated": "1763414006",
       "groups": {
-        "No Group Scanlation": "/proxy/api/imgur/chapter/FAY1TGR/"
+        "No Group Scanlation": [
+          "https://i.ibb.co/N2Ty6TVx/01.jpg",
+          "https://i.ibb.co/qYKsssbg/02.jpg",
+          "https://i.ibb.co/JFKZhtwm/03.jpg",
+          "https://i.ibb.co/FLCvJCNP/04.jpg",
+          "https://i.ibb.co/kgXNNB0g/05.jpg",
+          "https://i.ibb.co/S7HHcs0Y/06.jpg",
+          "https://i.ibb.co/XhcvSsb/07.jpg",
+          "https://i.ibb.co/mrrG4Hv1/08.jpg",
+          "https://i.ibb.co/MkhCb8BZ/09.jpg",
+          "https://i.ibb.co/FbYn4tpP/10.jpg",
+          "https://i.ibb.co/MyZhhjTS/11.jpg",
+          "https://i.ibb.co/cKqxxVDx/12.jpg",
+          "https://i.ibb.co/0pfjH927/13.jpg",
+          "https://i.ibb.co/0P76QBy/14.jpg",
+          "https://i.ibb.co/FbM7HRzY/16.jpg",
+          "https://i.ibb.co/sv1HGD0j/17.jpg",
+          "https://i.ibb.co/Ld62MskZ/18.jpg",
+          "https://i.ibb.co/F4cwwFXj/19.jpg",
+          "https://i.ibb.co/N2MTd0tP/20.jpg"
+        ]
       }
     },
     "30": {
       "title": "Sui Rei",
       "volume": "6",
-      "last_updated": "1579007335",
+      "last_updated": "1763413972",
       "groups": {
-        "No Group Scanlation": "/proxy/api/imgur/chapter/kSiVHZ1/"
+        "No Group Scanlation": [
+          "https://i.ibb.co/sJWgjZh4/01.jpg",
+          "https://i.ibb.co/chVCxLDF/02.jpg",
+          "https://i.ibb.co/Z5Mnzf6/03.jpg",
+          "https://i.ibb.co/tPJp50dZ/04.jpg",
+          "https://i.ibb.co/RTvkN8pd/05.jpg",
+          "https://i.ibb.co/6C7NdjD/06.jpg",
+          "https://i.ibb.co/3Yh69vtD/07.jpg",
+          "https://i.ibb.co/fGd22T7T/08.jpg",
+          "https://i.ibb.co/Pv7dTWMB/09.jpg",
+          "https://i.ibb.co/4wYMkFY7/10.jpg",
+          "https://i.ibb.co/DPKMS7pN/11.jpg",
+          "https://i.ibb.co/KtKYDxP/12.jpg",
+          "https://i.ibb.co/4RjLVWGd/13.jpg",
+          "https://i.ibb.co/5xhPG66Q/14.jpg",
+          "https://i.ibb.co/spVvjNy3/15.jpg",
+          "https://i.ibb.co/LdzyPTX3/16.jpg",
+          "https://i.ibb.co/5WXNm47R/17.jpg",
+          "https://i.ibb.co/WNKq32Vv/18.jpg",
+          "https://i.ibb.co/v4GLtCXp/19.jpg",
+          "https://i.ibb.co/7dJSgQ5C/20.jpg",
+          "https://i.ibb.co/yFbdPZyq/21.jpg",
+          "https://i.ibb.co/d4G49cfW/22.jpg",
+          "https://i.ibb.co/gZCY052C/23.jpg",
+          "https://i.ibb.co/SD9FSpKv/24.jpg",
+          "https://i.ibb.co/7JqPtDnR/25.jpg",
+          "https://i.ibb.co/pBMVJZrV/26.jpg",
+          "https://i.ibb.co/67vGZgP1/27.jpg",
+          "https://i.ibb.co/rG0mVScK/28.jpg",
+          "https://i.ibb.co/ymSSN1KS/29.jpg",
+          "https://i.ibb.co/fzLJd8RS/30.jpg",
+          "https://i.ibb.co/y2FBHq1/31.jpg"
+        ]
       }
     },
     "31": {
       "title": "Coincidence or Inevitable",
       "volume": "6",
-      "last_updated": "1581090204",
+      "last_updated": "1763413928",
       "groups": {
-        "No Group Scanlation": "/proxy/api/imgur/chapter/XqgLgxj/"
+        "No Group Scanlation": [
+          "https://i.ibb.co/WptPMN9k/01.jpg",
+          "https://i.ibb.co/SDdzzxLk/02.jpg",
+          "https://i.ibb.co/k6VKGw8J/03.jpg",
+          "https://i.ibb.co/Swb4QnXp/04.jpg",
+          "https://i.ibb.co/Vc6G0hM3/05.jpg",
+          "https://i.ibb.co/vCKST5vf/06.jpg",
+          "https://i.ibb.co/8Lsqs3BD/07.jpg",
+          "https://i.ibb.co/kgYcLjyb/08.jpg",
+          "https://i.ibb.co/qF4sNXCH/09.jpg",
+          "https://i.ibb.co/YFDKyW48/10.jpg",
+          "https://i.ibb.co/xKHsg87d/11.jpg",
+          "https://i.ibb.co/HD7XnLGt/12.jpg",
+          "https://i.ibb.co/99wmxfX4/13.jpg",
+          "https://i.ibb.co/tMq0SL44/14.jpg",
+          "https://i.ibb.co/NngDw5BB/15.jpg",
+          "https://i.ibb.co/gMTYtvDH/16.jpg",
+          "https://i.ibb.co/bMnVcB8Y/17.jpg",
+          "https://i.ibb.co/zhDjgMBh/18.jpg",
+          "https://i.ibb.co/Kccqg5ms/19.jpg",
+          "https://i.ibb.co/j9Z8m2qT/20.jpg"
+        ]
       }
     },
     "32": {
       "title": "The Medium Ritual Master",
       "volume": "6",
-      "last_updated": "1583421041",
+      "last_updated": "1763413894",
       "groups": {
-        "No Group Scanlation": "/proxy/api/imgur/chapter/IKg5qzD/"
+        "No Group Scanlation": [
+          "https://i.ibb.co/LhH1Yr1Z/00.jpg",
+          "https://i.ibb.co/wrW25gfq/01.jpg",
+          "https://i.ibb.co/433VsyM/02.jpg",
+          "https://i.ibb.co/0VBr9jc1/03.jpg",
+          "https://i.ibb.co/1JvvbhPS/04.jpg",
+          "https://i.ibb.co/f797gFJ/05.jpg",
+          "https://i.ibb.co/TBjXrxKq/06.jpg",
+          "https://i.ibb.co/qYQb7xSG/07.jpg",
+          "https://i.ibb.co/jPkBBM1S/08.jpg",
+          "https://i.ibb.co/7Nvw1Kw7/09.jpg",
+          "https://i.ibb.co/KxC009Nm/10.jpg",
+          "https://i.ibb.co/zhqhDT39/11.jpg",
+          "https://i.ibb.co/bj6RXFZ6/12.jpg",
+          "https://i.ibb.co/Q3P3sp9S/13.jpg",
+          "https://i.ibb.co/x82W5ntd/14.jpg",
+          "https://i.ibb.co/wFs2rxJ0/15.jpg",
+          "https://i.ibb.co/XQJ94MK/16.jpg",
+          "https://i.ibb.co/wFZ4W6xB/17.jpg",
+          "https://i.ibb.co/Kpz026zL/18.jpg",
+          "https://i.ibb.co/Ldzktz8W/19.jpg",
+          "https://i.ibb.co/Cs6s8b6F/20.jpg",
+          "https://i.ibb.co/n8LYLFTJ/21.jpg",
+          "https://i.ibb.co/1FtgG0Y/22.jpg",
+          "https://i.ibb.co/Ps0HDvTr/23.jpg",
+          "https://i.ibb.co/MyLQJLrr/25.jpg",
+          "https://i.ibb.co/pvyGhZsN/27.jpg",
+          "https://i.ibb.co/sdbRKzyF/29.jpg",
+          "https://i.ibb.co/MkXBb6Hd/30.jpg",
+          "https://i.ibb.co/1YGG4Bmn/31.jpg",
+          "https://i.ibb.co/DHTv17h5/32.jpg",
+          "https://i.ibb.co/MygdKqn2/33.jpg",
+          "https://i.ibb.co/Y4pNyyLw/23.jpg"
+        ]
       }
     },
     "32.5": {
       "title": "Extras",
       "volume": "6",
-      "last_updated": "1598805555",
+      "last_updated": "1763413855",
       "groups": {
-        "No Group Scanlation": "/proxy/api/imgur/chapter/okNzRJi/"
+        "No Group Scanlation": [
+          "https://i.ibb.co/gNvvXDM/01.jpg",
+          "https://i.ibb.co/rTFtRjj/02.jpg",
+          "https://i.ibb.co/SX9T2N9X/03.jpg",
+          "https://i.ibb.co/tM8dm4YR/04.jpg",
+          "https://i.ibb.co/nNbS59V2/05.jpg",
+          "https://i.ibb.co/pjz5WfpD/06.jpg",
+          "https://i.ibb.co/qYV9sTLK/07.jpg",
+          "https://i.ibb.co/TMBPBnLP/08.jpg",
+          "https://i.ibb.co/qFCp0zJg/09.jpg"
+        ]
       }
     },
     "33": {
