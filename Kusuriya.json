@@ -252,14 +252,6 @@
         "No Group Scanlation": "/proxy/api/imgur/chapter/uLifHf5/"
       }
     },
-    "28.10": {
-      "title": "A Stroll Through The City",
-      "volume": "6",
-      "last_updated": "1564966022",
-      "groups": {
-        "No Group Scanlation": "/proxy/api/imgur/chapter/YEtkcBO/"
-      }
-    },
     "29.1": {
       "title": "Syphilis (Part 1)",
       "volume": "6",
@@ -311,65 +303,274 @@
     "33": {
       "title": "The Devil's Trumpet",
       "volume": "7",
-      "last_updated": "1586159575",
+      "last_updated": "1763413690",
       "groups": {
-        "No Group Scanlation": "/proxy/api/imgur/chapter/twvPFFg/"
+        "No Group Scanlation": [
+          "https://i.ibb.co/S4x1wn4Y/01.jpg",
+          "https://i.ibb.co/bg8GZtMj/02.jpg",
+          "https://i.ibb.co/MTCh76Y/03.jpg",
+          "https://i.ibb.co/gMKy0sh5/04.jpg",
+          "https://i.ibb.co/WNH0X69V/05.jpg",
+          "https://i.ibb.co/twxMCnvY/06.jpg",
+          "https://i.ibb.co/sdTYdd4P/07.jpg",
+          "https://i.ibb.co/HfYkKvHx/08.jpg",
+          "https://i.ibb.co/xt3RsNzy/09.jpg",
+          "https://i.ibb.co/PvyMp6w4/10.jpg",
+          "https://i.ibb.co/MyxDjP9F/11.jpg",
+          "https://i.ibb.co/5h8Pqdpf/12.jpg",
+          "https://i.ibb.co/zVtCv3rS/13.jpg",
+          "https://i.ibb.co/v4Q4MMYW/14.jpg",
+          "https://i.ibb.co/fdCRCDJV/15.jpg",
+          "https://i.ibb.co/B5RwKfKm/16.jpg",
+          "https://i.ibb.co/k2HzZFkd/17.jpg",
+          "https://i.ibb.co/DPrQ6Jry/18.jpg",
+          "https://i.ibb.co/Mx8RY1Yr/19.jpg",
+          "https://i.ibb.co/C5YPrGhs/20.jpg",
+          "https://i.ibb.co/vvkCwrZ7/21.jpg",
+          "https://i.ibb.co/21s02RTS/22.jpg",
+          "https://i.ibb.co/rRZBW3Q6/23.jpg",
+          "https://i.ibb.co/Hf3QdxHR/24.jpg",
+          "https://i.ibb.co/0VCJMnSk/26.jpg",
+          "https://i.ibb.co/nsYb5HJn/27.jpg",
+          "https://i.ibb.co/fVGMtr6k/28.jpg",
+          "https://i.ibb.co/JFbDFpzf/29.jpg",
+          "https://i.ibb.co/zHCpgMdY/30.jpg",
+          "https://i.ibb.co/LD4SJkMf/31.jpg",
+          "https://i.ibb.co/39rKL5Mb/32.jpg",
+          "https://i.ibb.co/RpJrRcXt/33.jpg",
+          "https://i.ibb.co/BV43fb8F/34.jpg",
+          "https://i.ibb.co/S7Gs04xB/35.jpg",
+          "https://i.ibb.co/RTGYDNYX/36.jpg",
+          "https://i.ibb.co/9kQ8gKpC/37.jpg",
+          "https://i.ibb.co/fYMWqyd7/38.jpg",
+          "https://i.ibb.co/Gffzq8Mc/39.jpg"
+        ]
       }
     },
     "34": {
       "title": "Gao Shun",
       "volume": "7",
-      "last_updated": "1588469474",
+      "last_updated": "1763413652",
       "groups": {
-        "No Group Scanlation": "/proxy/api/imgur/chapter/s5nEyMd/"
+        "No Group Scanlation": [
+          "https://i.ibb.co/GvMJ1XTN/01.jpg",
+          "https://i.ibb.co/FkK1w4t3/02.jpg",
+          "https://i.ibb.co/DDHzWL4D/04.jpg",
+          "https://i.ibb.co/dsJvQYvq/05.jpg",
+          "https://i.ibb.co/VWM8Kk6M/06.jpg",
+          "https://i.ibb.co/kgjDgZss/07.jpg",
+          "https://i.ibb.co/RkXqdmwT/08.jpg",
+          "https://i.ibb.co/HTzx9Qyv/09.jpg",
+          "https://i.ibb.co/Y4RPY6Z6/10.jpg",
+          "https://i.ibb.co/XxyXVWdT/11.jpg",
+          "https://i.ibb.co/sd2YLJ3g/12.jpg",
+          "https://i.ibb.co/jks0BJtP/13.jpg",
+          "https://i.ibb.co/vvhLYDvf/14.jpg",
+          "https://i.ibb.co/LzCXS8C2/15.jpg",
+          "https://i.ibb.co/N6g8mSPG/16.jpg",
+          "https://i.ibb.co/nqPB3T3t/17.jpg",
+          "https://i.ibb.co/GGnm83s/18.jpg",
+          "https://i.ibb.co/NgSZ9vhS/19.jpg",
+          "https://i.ibb.co/Z1Jybpb7/20.jpg",
+          "https://i.ibb.co/dJsQd66y/21.jpg",
+          "https://i.ibb.co/mVX04BTb/22.jpg",
+          "https://i.ibb.co/5WMSnH3C/23.jpg",
+          "https://i.ibb.co/sdXLMxQ8/24.jpg",
+          "https://i.ibb.co/V0qFk42g/25.jpg",
+          "https://i.ibb.co/39MQL8x9/26.jpg",
+          "https://i.ibb.co/Y4pNyyLw/23.jpg"
+        ]
       }
     },
     "35.1": {
       "title": "Back to the Inner Palace (Part 1)",
       "volume": "7",
-      "last_updated": "1591634382",
+      "last_updated": "1763413616",
       "groups": {
-        "No Group Scanlation": "/proxy/api/imgur/chapter/lPHQwmv/"
+        "No Group Scanlation": [
+          "https://i.ibb.co/zhM00tdR/01.jpg",
+          "https://i.ibb.co/rKCC5md0/02.jpg",
+          "https://i.ibb.co/N27WG4Xr/03.jpg",
+          "https://i.ibb.co/9mgt1k0c/04.jpg",
+          "https://i.ibb.co/5hLYhv1C/05.jpg",
+          "https://i.ibb.co/9km97XS6/06.jpg",
+          "https://i.ibb.co/HTVsgBmT/07.jpg",
+          "https://i.ibb.co/CN5ZfF5/08.jpg",
+          "https://i.ibb.co/67Z5DWP6/09.jpg",
+          "https://i.ibb.co/FkZ05dHy/10.jpg",
+          "https://i.ibb.co/F4yYtFS8/11.jpg",
+          "https://i.ibb.co/d0s4YZwG/12.jpg",
+          "https://i.ibb.co/fdWhcVgZ/13.jpg",
+          "https://i.ibb.co/499dtmv/14.jpg",
+          "https://i.ibb.co/ns86bc65/15.jpg",
+          "https://i.ibb.co/Q73PTNmB/16.jpg",
+          "https://i.ibb.co/kVk2Zp3x/17.jpg",
+          "https://i.ibb.co/fV6RsH6T/18.jpg",
+          "https://i.ibb.co/JWPJM13N/19.jpg",
+          "https://i.ibb.co/YT0rZY99/20.jpg",
+          "https://i.ibb.co/Z617GSpr/21.jpg",
+          "https://i.ibb.co/qMxmYT9L/22.jpg",
+          "https://i.ibb.co/Y4pNyyLw/23.jpg"
+        ]
       }
     },
     "35.2": {
       "title": "Back to the Inner Palace (Part 2)",
       "volume": "7",
-      "last_updated": "1593971944",
+      "last_updated": "1763413581",
       "groups": {
-        "No Group Scanlation": "/proxy/api/imgur/chapter/zno1rH3/"
+        "No Group Scanlation": [
+          "https://i.ibb.co/Nd5Tqqmd/001.jpg",
+          "https://i.ibb.co/8D9ymcFb/002.jpg",
+          "https://i.ibb.co/G4942nd6/003.jpg",
+          "https://i.ibb.co/B207RXSF/004.jpg",
+          "https://i.ibb.co/PZrW8z8n/005.jpg",
+          "https://i.ibb.co/5WfBfyWy/006.jpg",
+          "https://i.ibb.co/GfpQ3LR9/007.jpg",
+          "https://i.ibb.co/WpjYgnM7/008.jpg",
+          "https://i.ibb.co/W4ZLBdXq/009.jpg",
+          "https://i.ibb.co/TMJkS6Rs/010.jpg",
+          "https://i.ibb.co/XfMD1Wv1/011.jpg",
+          "https://i.ibb.co/vvRGW985/012.jpg",
+          "https://i.ibb.co/Q7NR7C5q/013.jpg",
+          "https://i.ibb.co/23WyzhDg/014.jpg",
+          "https://i.ibb.co/GfrVdKLF/015.jpg",
+          "https://i.ibb.co/zHfFvFBN/016.jpg",
+          "https://i.ibb.co/4nwF4NtV/017.jpg",
+          "https://i.ibb.co/1h0KTBB/018.jpg",
+          "https://i.ibb.co/q3H6DXRT/019.jpg",
+          "https://i.ibb.co/d0G8LhPF/020.jpg",
+          "https://i.ibb.co/6h9Bd5m/021.jpg",
+          "https://i.ibb.co/xt8DSZyy/022.jpg",
+          "https://i.ibb.co/XrP5DQ1K/023.jpg",
+          "https://i.ibb.co/N2V1DQ5G/024.jpg",
+          "https://i.ibb.co/7x8d5Gpq/025.jpg",
+          "https://i.ibb.co/ynHjTM0K/026.jpg",
+          "https://i.ibb.co/vK5cLfD/027.jpg",
+          "https://i.ibb.co/zVkStm04/028.jpg",
+          "https://i.ibb.co/kVkSkSK6/029.jpg",
+          "https://i.ibb.co/TxNmy33N/030.jpg",
+          "https://i.ibb.co/RTkhsp7f/031.jpg",
+          "https://i.ibb.co/j93YKRDQ/32.jpg"
+        ]
       }
     },
     "36.1": {
       "title": "A Rose and Nail Polish (Part 1)",
       "volume": "7",
-      "last_updated": "1599225751",
+      "last_updated": "1763413537",
       "groups": {
-        "No Group Scanlation": "/proxy/api/imgur/chapter/kMrKtTy/"
+        "No Group Scanlation": [
+          "https://i.ibb.co/xt7f6f2j/01.jpg",
+          "https://i.ibb.co/VYpmJdQV/02.jpg",
+          "https://i.ibb.co/bjSZT9Rc/03.jpg",
+          "https://i.ibb.co/rRvzqy0Q/04.jpg",
+          "https://i.ibb.co/tpP7M13X/05.jpg",
+          "https://i.ibb.co/WvXHBbfz/06.jpg",
+          "https://i.ibb.co/vCtxjjBV/07.jpg",
+          "https://i.ibb.co/hFwYMs4p/08.jpg",
+          "https://i.ibb.co/wh9mvDC7/09.jpg",
+          "https://i.ibb.co/d42rTckg/10.jpg",
+          "https://i.ibb.co/xtczvtgW/11.jpg",
+          "https://i.ibb.co/hF9gH8yb/12.jpg",
+          "https://i.ibb.co/23HygJw5/13.jpg",
+          "https://i.ibb.co/BKGGpJJ1/14.jpg",
+          "https://i.ibb.co/PsfsbKqW/15.jpg",
+          "https://i.ibb.co/bRNZbstv/16.jpg",
+          "https://i.ibb.co/5xtvJZ6d/17.jpg",
+          "https://i.ibb.co/DPJx1Pst/18.jpg",
+          "https://i.ibb.co/jP7Bp9YX/19.jpg",
+          "https://i.ibb.co/pvswvDmJ/20.jpg",
+          "https://i.ibb.co/x8DJvqWw/21.jpg",
+          "https://i.ibb.co/jkvK53BG/22.jpg",
+          "https://i.ibb.co/9kjsxjdD/23.jpg",
+          "https://i.ibb.co/359G9GR8/24.jpg"
+        ]
       }
     },
     "36.2": {
       "title": "A Rose and Nail Polish (Part 2)",
       "volume": "7",
-      "last_updated": "1601906267",
+      "last_updated": "1763413501",
       "groups": {
-        "No Group Scanlation": "/proxy/api/imgur/chapter/rX8LPxB/"
+        "No Group Scanlation": [
+          "https://i.ibb.co/wrrtsGfr/01.jpg",
+          "https://i.ibb.co/qLF36vJY/02.jpg",
+          "https://i.ibb.co/YTPYsZLQ/03.jpg",
+          "https://i.ibb.co/fdjrNckn/04.jpg",
+          "https://i.ibb.co/xt5sqCDM/05.jpg",
+          "https://i.ibb.co/WNLgMCQB/06.jpg",
+          "https://i.ibb.co/MDPBQbK6/07.jpg",
+          "https://i.ibb.co/Fb7qwYsC/08.jpg",
+          "https://i.ibb.co/ym5HsPgf/09.jpg",
+          "https://i.ibb.co/60Kb2jTT/10.jpg",
+          "https://i.ibb.co/v4HBhsnW/11.jpg",
+          "https://i.ibb.co/Jj22XSCp/12.jpg",
+          "https://i.ibb.co/yFM8K4KX/13.jpg",
+          "https://i.ibb.co/GQSZj3xs/14.jpg",
+          "https://i.ibb.co/hx16SvsK/15.jpg",
+          "https://i.ibb.co/yF5LxgCK/16.jpg",
+          "https://i.ibb.co/mFDPX8Cc/17.jpg",
+          "https://i.ibb.co/qZ9TDY4/18.jpg",
+          "https://i.ibb.co/35qfxX4q/24.jpg"
+        ]
       }
     },
     "36.3": {
       "title": "A Rose and Nail Polish (Part 3)",
       "volume": "7",
-      "last_updated": "1604624164",
+      "last_updated": "1763413467",
       "groups": {
-        "No Group Scanlation": "/proxy/api/imgur/chapter/CSdMAQh/"
+        "No Group Scanlation": [
+          "https://i.ibb.co/ynHn0Y5V/01.jpg",
+          "https://i.ibb.co/0pjsPY8L/02.jpg",
+          "https://i.ibb.co/ksVV3g11/03.jpg",
+          "https://i.ibb.co/k2xNTDbd/04.jpg",
+          "https://i.ibb.co/ksLjw3yL/05.jpg",
+          "https://i.ibb.co/2YctP75j/06.jpg",
+          "https://i.ibb.co/xt81yD9T/07.jpg",
+          "https://i.ibb.co/NnZFSSc0/08.jpg",
+          "https://i.ibb.co/zV8TDLsL/09.jpg",
+          "https://i.ibb.co/s9b8WhyY/10.jpg",
+          "https://i.ibb.co/wrMxSdx7/11.jpg",
+          "https://i.ibb.co/zW7PVxcC/12.jpg",
+          "https://i.ibb.co/fzyyfY81/13.jpg",
+          "https://i.ibb.co/CKYyCTKR/14.jpg",
+          "https://i.ibb.co/v6kyBPTB/15.jpg",
+          "https://i.ibb.co/cSqVQdsn/16.jpg",
+          "https://i.ibb.co/67wZjYsk/17.jpg",
+          "https://i.ibb.co/ZRDLNPk8/18.jpg",
+          "https://i.ibb.co/KjzTwN8t/19.jpg",
+          "https://i.ibb.co/tw8cFDGN/20.jpg",
+          "https://i.ibb.co/cK1ggRdd/21.jpg",
+          "https://i.ibb.co/jk8KDJHg/22.jpg",
+          "https://i.ibb.co/B7JS0Gk/23.jpg",
+          "https://i.ibb.co/yByRFSQX/24.jpg"
+        ]
+      }
+    },
+    "36.5": {
+      "title": "Extras",
+      "volume": "7",
+      "last_updated": "1763413385",
+      "groups": {
+        "": [
+          "https://i.ibb.co/cKZKVnpK/01.jpg",
+          "https://i.ibb.co/w2RFPd1/02.jpg",
+          "https://i.ibb.co/GQ1BLM6G/03.jpg",
+          "https://i.ibb.co/v6Hh6z81/04.jpg",
+          "https://i.ibb.co/ycrcjNn0/05.jpg",
+          "https://i.ibb.co/Fqj53bwD/06.jpg",
+          "https://i.ibb.co/LD9hCdKd/07.jpg"
+        ]
       }
     },
     "37": {
       "title": "Balsam and Wood Sorrel (Part 1)",
-      "volume": "7",
+      "volume": "8",
       "last_updated": "1617829847",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/R3sGk2p/01.jpg",
           "https://i.ibb.co/NFGYzZ2/02.jpg",
           "https://i.ibb.co/xznmh7j/03.jpg",
@@ -409,10 +610,10 @@
     },
     "38": {
       "title": "Balsam and Wood Sorrel (Part 2)",
-      "volume": "7",
+      "volume": "8",
       "last_updated": "1617829847",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/MDw5zxj/00.jpg",
           "https://i.ibb.co/VCv6nTh/01.jpg",
           "https://i.ibb.co/hdyKFJx/02.jpg",
@@ -446,10 +647,10 @@
     },
     "39": {
       "title": "Balsam and Wood Sorrel (Part 3)",
-      "volume": "7",
+      "volume": "8",
       "last_updated": "1617829847",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/k3bnsvZ/01.jpg",
           "https://i.ibb.co/fCWqYpH/02.jpg",
           "https://i.ibb.co/bg5tgqy/03.jpg",
@@ -476,10 +677,10 @@
     },
     "40": {
       "title": "Sending Off",
-      "volume": "7",
+      "volume": "8",
       "last_updated": "1617829847",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/9ygJYV6/01.jpg",
           "https://i.ibb.co/1v4DXpH/02.jpg",
           "https://i.ibb.co/k5y9BKR/03.jpg",
@@ -517,10 +718,10 @@
     },
     "41": {
       "title": "Book",
-      "volume": "7",
+      "volume": "8",
       "last_updated": "1617829847",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/XZgWxz6/02.jpg",
           "https://i.ibb.co/XbgYRRx/03.jpg",
           "https://i.ibb.co/d2L5pN9/04.jpg",
@@ -557,18 +758,35 @@
     },
     "42.1": {
       "title": "Cat (Part 1)",
-      "volume": "7",
-      "last_updated": "1617829847",
+      "volume": "8",
+      "last_updated": "1763413296",
       "groups": {
-        "No Group Scanlation": "/proxy/api/imgur/chapter/CIHhF84/"
+        "": [
+          "https://i.ibb.co/tM14TLCz/02.jpg",
+          "https://i.ibb.co/QjpmzBNb/03.jpg",
+          "https://i.ibb.co/zhRvwvPp/04.jpg",
+          "https://i.ibb.co/LhxB91XP/05.jpg",
+          "https://i.ibb.co/ccdrkkfm/06.jpg",
+          "https://i.ibb.co/WpN94YBC/07.jpg",
+          "https://i.ibb.co/GQ1Qnzcs/08.jpg",
+          "https://i.ibb.co/HfSmZ9LW/09.jpg",
+          "https://i.ibb.co/C5Mzj0BX/10.jpg",
+          "https://i.ibb.co/0ygQ4HLk/11.jpg",
+          "https://i.ibb.co/9m7fXGN3/12.jpg",
+          "https://i.ibb.co/qYh9hBkH/13.jpg",
+          "https://i.ibb.co/zVrYX5Lf/14.jpg",
+          "https://i.ibb.co/GQqBQ76P/15.jpg",
+          "https://i.ibb.co/qFmWfYY0/16.jpg",
+          "https://i.ibb.co/YB7XXfF7/50.jpg"
+        ]
       }
     },
     "42.2": {
       "title": "Cat (Conclusion)",
-      "volume": "7",
-      "last_updated": "1621125880",
+      "volume": "8",
+      "last_updated": "1763413255",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/xmyKR4C/01.jpg",
           "https://i.ibb.co/jf2HyhF/02.jpg",
           "https://i.ibb.co/h1s8jSB/03.jpg",
@@ -592,10 +810,10 @@
     },
     "43.1": {
       "title": "Caravan (Part 1)",
-      "volume": "7",
+      "volume": "9",
       "last_updated": "1621459634",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/mtWNy8N/01.jpg",
           "https://i.ibb.co/9h81kLh/02.jpg",
           "https://i.ibb.co/z4ShKkG/03.jpg",
@@ -624,10 +842,10 @@
     },
     "43.2": {
       "title": "Caravan (Conclusion)",
-      "volume": "7",
+      "volume": "9",
       "last_updated": "1623707050",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/Q9DkJ9k/01.jpg",
           "https://i.ibb.co/x6yK1Ds/02.jpg",
           "https://i.ibb.co/Bf93DSH/03.jpg",
@@ -657,10 +875,10 @@
     },
     "44.1": {
       "title": "Human Cordyceps (Part 1)",
-      "volume": "8",
+      "volume": "9",
       "last_updated": "1624150060",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/37fxMCq/01.jpg",
           "https://i.ibb.co/vBcZX0P/02.jpg",
           "https://i.ibb.co/wsDn3XK/03.jpg",
@@ -679,10 +897,10 @@
     },
     "44.2": {
       "title": "Human Cordyceps (Part 2)",
-      "volume": "8",
+      "volume": "9",
       "last_updated": "1625695530",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/vHMDmNM/01.jpg",
           "https://i.ibb.co/yWvhDmM/03.jpg",
           "https://i.ibb.co/Yb1t1fd/04.jpg",
@@ -712,10 +930,10 @@
     },
     "45.1": {
       "title": "Human Cordyceps (Epilogue, Part 1)",
-      "volume": "8",
+      "volume": "9",
       "last_updated": "1625695530",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/nfPFRxw/25.jpg",
           "https://i.ibb.co/KsGpn5L/26.jpg",
           "https://i.ibb.co/yyYTkfm/27.jpg",
@@ -735,10 +953,10 @@
     },
     "45.2": {
       "title": "Human Cordyceps (Epilogue, Part 2)",
-      "volume": "8",
+      "volume": "9",
       "last_updated": "1627507342",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/NtZk7Xf/002.jpg",
           "https://i.ibb.co/3YksQSx/003.jpg",
           "https://i.ibb.co/MDXyTcS/004.jpg",
@@ -759,10 +977,10 @@
     },
     "46": {
       "title": "Mirror",
-      "volume": "8",
+      "volume": "9",
       "last_updated": "1632416626",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/2jV4BK4/001.jpg",
           "https://i.ibb.co/HdJDjM4/002.jpg",
           "https://i.ibb.co/5KtNBNd/003.jpg",
@@ -798,10 +1016,10 @@
     },
     "47": {
       "title": "Moon Fairy (Part 1)",
-      "volume": "8",
+      "volume": "9",
       "last_updated": "1635030009",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/fp9NQDd/01.jpg",
           "https://i.ibb.co/wBYnMwR/02.jpg",
           "https://i.ibb.co/4tyd1FX/03.jpg",
@@ -842,10 +1060,10 @@
     },
     "48.1": {
       "title": "Moon Fairy (Part 2)",
-      "volume": "8",
+      "volume": "10",
       "last_updated": "1635721206",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/s60z6cD/01.jpg",
           "https://i.ibb.co/MhPDxCB/02.jpg",
           "https://i.ibb.co/86wNgyg/03.jpg",
@@ -865,10 +1083,10 @@
     },
     "48.2": {
       "title": "Moon Fairy (Part 2)",
-      "volume": "8",
+      "volume": "10",
       "last_updated": "1638130764",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/MNwWhTQ/01.jpg",
           "https://i.ibb.co/X895w72/06.jpg",
           "https://i.ibb.co/RD2mCMC/07.jpg",
@@ -896,10 +1114,10 @@
     },
     "49": {
       "title": "The Clinic",
-      "volume": "8",
+      "volume": "10",
       "last_updated": "1642456598",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/nkgDJYz/01.jpg",
           "https://i.ibb.co/hMbDwK5/02.jpg",
           "https://i.ibb.co/X7Wtzv5/04.jpg",
@@ -940,10 +1158,10 @@
     },
     "50": {
       "title": "Third Time's The Charm (Part 1)",
-      "volume": "8",
+      "volume": "10",
       "last_updated": "1645060368",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/fC5920j/01.jpg",
           "https://i.ibb.co/ZJXBsdL/02.jpg",
           "https://i.ibb.co/56R2P18/03.jpg",
@@ -969,10 +1187,10 @@
     },
     "51": {
       "title": "Third Time's The Charm (Part 2)",
-      "volume": "8",
+      "volume": "10",
       "last_updated": "1647086982",
       "groups": {
-        "No Group Scanlation": [
+        "": [
           "https://i.ibb.co/mSCQsdK/01.jpg",
           "https://i.ibb.co/4ffpdyP/02.jpg",
           "https://i.ibb.co/wLfJLqF/03.jpg",
@@ -991,6 +1209,105 @@
           "https://i.ibb.co/LZNDdbP/16.jpg",
           "https://i.ibb.co/CPsS5Zf/49.jpg",
           "https://i.ibb.co/99j0Ckr/50.jpg"
+        ]
+      }
+    },
+    "52.1": {
+      "title": "Third Time's The Charm (Part 3)",
+      "volume": "10",
+      "last_updated": "1763413118",
+      "groups": {
+        "": [
+          "https://i.ibb.co/3yW9rvmX/01.jpg",
+          "https://i.ibb.co/0VjNYRBX/02.jpg",
+          "https://i.ibb.co/gbywsxmw/03.jpg",
+          "https://i.ibb.co/LXx92PVB/04.jpg",
+          "https://i.ibb.co/99F1qRv6/05.jpg",
+          "https://i.ibb.co/S7wG4hYM/06.jpg",
+          "https://i.ibb.co/YTpGVb5t/07.jpg",
+          "https://i.ibb.co/VcgdNj5y/08.jpg",
+          "https://i.ibb.co/TM5Hfc0k/09.jpg",
+          "https://i.ibb.co/Psvgdg8y/10.jpg",
+          "https://i.ibb.co/fVd1PgqV/11.jpg",
+          "https://i.ibb.co/N6tn82dv/12.jpg",
+          "https://i.ibb.co/twSThtxj/13.jpg",
+          "https://i.ibb.co/FbKv9xRF/14.jpg",
+          "https://i.ibb.co/hF5V0gCd/15.jpg",
+          "https://i.ibb.co/WpsfDJcv/16.jpg",
+          "https://i.ibb.co/8nB7K89x/17.jpg",
+          "https://i.ibb.co/jZ5NLJTj/18.jpg",
+          "https://i.ibb.co/XxWmHY9r/19.jpg",
+          "https://i.ibb.co/svLcHzkf/50.jpg",
+          "https://i.ibb.co/sJp3Q06B/51.jpg"
+        ]
+      }
+    },
+    "52.2": {
+      "title": "Third Time's The Charm (Part 4)",
+      "volume": "10",
+      "last_updated": "1763413030",
+      "groups": {
+        "": [
+          "https://i.ibb.co/PGdQQWMq/01.jpg",
+          "https://i.ibb.co/4gs6PTBH/02.jpg",
+          "https://i.ibb.co/xtD6JN50/03.jpg",
+          "https://i.ibb.co/1JwPH96x/04.jpg",
+          "https://i.ibb.co/qLDJpwmF/05.jpg",
+          "https://i.ibb.co/CsPYc6Xs/06.jpg",
+          "https://i.ibb.co/Kx2HjLvY/07.jpg",
+          "https://i.ibb.co/NdpCz94y/08.jpg",
+          "https://i.ibb.co/7xRjFHYM/09.jpg",
+          "https://i.ibb.co/cnSdDF5/10.jpg",
+          "https://i.ibb.co/d8LFL17/11.jpg",
+          "https://i.ibb.co/S47gz3fq/12.jpg",
+          "https://i.ibb.co/ks5TwTxv/13.jpg",
+          "https://i.ibb.co/fzWbRq4d/14.jpg",
+          "https://i.ibb.co/KcKbjm4Y/15.jpg",
+          "https://i.ibb.co/5XRjsYsj/16.jpg",
+          "https://i.ibb.co/QFjgwpzp/17.jpg",
+          "https://i.ibb.co/fGKDXhBP/50.jpg",
+          "https://i.ibb.co/gM89r7k4/52.jpg"
+        ]
+      }
+    },
+    "53": {
+      "title": "The Shrine of Choosing (Part 1)",
+      "volume": "10",
+      "last_updated": "1763412964",
+      "groups": {
+        "": [
+          "https://i.ibb.co/ccz1CGD1/01.jpg",
+          "https://i.ibb.co/b5ZYRzvt/02.jpg",
+          "https://i.ibb.co/tP3X0rnR/03.jpg",
+          "https://i.ibb.co/HW2PQ6C/04.jpg",
+          "https://i.ibb.co/VGWKtjb/05.jpg",
+          "https://i.ibb.co/fdrZQ30x/06.jpg",
+          "https://i.ibb.co/w98MbKj/07.jpg",
+          "https://i.ibb.co/WW83KZpZ/08.jpg",
+          "https://i.ibb.co/TxhvR6Nk/09.jpg",
+          "https://i.ibb.co/9mF3BLTv/10.jpg",
+          "https://i.ibb.co/B5RxNh0C/11.jpg",
+          "https://i.ibb.co/8nBVd7j1/12.jpg",
+          "https://i.ibb.co/gMvRkPcC/13.jpg",
+          "https://i.ibb.co/rKC4QVyT/14.jpg",
+          "https://i.ibb.co/tMGvx0HC/15.jpg",
+          "https://i.ibb.co/wGh9vDF/16.jpg",
+          "https://i.ibb.co/8ncyfVWN/17.jpg",
+          "https://i.ibb.co/Kg4f6vS/18.jpg",
+          "https://i.ibb.co/8gyjZrN7/19.jpg",
+          "https://i.ibb.co/QFHKFTgY/20.jpg",
+          "https://i.ibb.co/C3RQR1xK/21.jpg",
+          "https://i.ibb.co/zT3GSRY2/22.jpg",
+          "https://i.ibb.co/8LPyCJJb/23.jpg",
+          "https://i.ibb.co/60pVb4zY/24.jpg",
+          "https://i.ibb.co/nqDmtQ7y/25.jpg",
+          "https://i.ibb.co/TxTHMPkw/26.jpg",
+          "https://i.ibb.co/HLspD23N/27.jpg",
+          "https://i.ibb.co/k6HNGb2L/28.jpg",
+          "https://i.ibb.co/VWYnqnh7/29.jpg",
+          "https://i.ibb.co/VWdMpkdN/30.jpg",
+          "https://i.ibb.co/fGKDXhBP/50.jpg",
+          "https://i.ibb.co/60LFyf9p/52.jpg"
         ]
       }
     },
