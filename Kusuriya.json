@@ -1,8 +1,10 @@
 {
+  "version": "cubari+e:1",
   "title": "Kusuriya no Hitorigoto",
   "description": "Maomao, a young woman trained in the art of herbal medicine, is forced to work as a lowly servant in the inner palace. Though she yearns for life outside its perfumed halls, she isn't long for a life of drudgery! Using her wits to break a \"curse\" afflicting the imperial heirs, Maomao attracts the attentions of the handsome eunuch Jinshi and is promoted to attendant food taster. But Jinshi has other plans for the erstwhile apothecary, and soon Maomao is back to brewing potions and solving mysteries?\n\nIf you find any typos or mistakes, turn to https://discord.gg/BHRPeE3",
-  "author": "Hyuuga Natsu, Nanao Ikki",
-  "cover": "https://i.imgur.com/2qQFj3N.png",
+  "author": "Hyuuga Natsu, Nanao Itsuki",
+  "artist": "Nekokurage",
+  "cover": "https://i.ibb.co/fRrQ46g/cover-6.jpg",
   "chapters": {
     "1": {
       "title": "The Harem's Curse",
@@ -3992,7 +3994,7 @@
       "volume": "17",
       "last_updated": "1778190658",
       "groups": {
-        "": [
+        "No Group Scanlation": [
           "https://i.ibb.co/NgQzkxwN/00.jpg",
           "https://i.ibb.co/nNYdpj20/01.jpg",
           "https://i.ibb.co/fYCKcdbP/02.jpg",
@@ -4024,7 +4026,7 @@
       "volume": "17",
       "last_updated": "1778190755",
       "groups": {
-        "": [
+        "No Group Scanlation": [
           "https://i.ibb.co/NgQzkxwN/00.jpg",
           "https://i.ibb.co/4RGLVmNd/01.jpg",
           "https://i.ibb.co/W48Yqmm1/03.jpg",
@@ -4051,6 +4053,149 @@
           "https://i.ibb.co/tpd5LZ0x/26.jpg",
           "https://i.ibb.co/bg939fkL/50.jpg",
           "https://i.ibb.co/d079Dt8y/55.jpg"
+        ]
+      }
+    }
+  },
+  "extensions": {
+    "credited": {
+      "authors": [
+        {
+          "name": "Hyuuga Natsu",
+          "links": [
+            "https://x.com/NaMelanza",
+            {
+              "kind": "personal",
+              "url": "https://urinasu.exblog.jp/"
+            }
+          ]
+        },
+        {
+          "name": "Nanao Itsuki",
+          "links": [
+            "https://x.com/7o_1ki",
+            {
+              "kind": "personal",
+              "url": "http://nigatsumikka.blog.shinobi.jp/"
+            }
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "name": "Nekokurage",
+          "links": [
+            "https://x.com/nekokurage_",
+            "http://nekokurage.tumblr.com/"
+          ]
+        }
+      ]
+    },
+    "outlinks": [
+      "https://mangupdates.com/series/6y4x7mq",
+      "https://www.anime-planet.com/manga/the-apothecary-diaries",
+      "https://anilist.co/manga/99022",
+      "https://kitsu.app/manga/39631",
+      "https://myanimelist.net/manga/107562",
+      "https://novelupdates.com/series/kusuriya-no-hitorigoto",
+      "http://www.jp.square-enix.com/magazine/biggangan/introduction/kusuriya",
+      "https://global.manga-up.com/manga/164",
+      "https://bookwalker.jp/series/130765/list",
+      "https://www.amazon.co.jp/dp/B07BHZ7W3S",
+      "https://ebookjapan.yahoo.co.jp/books/423421",
+      "https://www.cdjapan.co.jp/product/NEOBK-3045807",
+      "https://booklive.jp/product/index/title_id/464597"
+    ],
+    "volumes": {
+      "1": {
+        "covers": [
+          "https://i.ibb.co/tMNGHdNM/cover-1.jpg",
+          "https://i.ibb.co/dwQR58Bn/cover-1-1.png"
+        ]
+      },
+      "2": {
+        "covers": [
+          "https://i.ibb.co/s91YxWdt/cover-2.jpg",
+          "https://i.ibb.co/gb56rHh2/cover-2-1.png"
+        ]
+      },
+      "3": {
+        "covers": [
+          "https://i.ibb.co/nN96n88T/cover-3.jpg",
+          "https://i.ibb.co/fVsHWdmS/cover-3-1.png"
+        ]
+      },
+      "4": {
+        "covers": [
+          "https://i.ibb.co/YBcT7yy2/cover-4.jpg",
+          "https://i.ibb.co/TqKp6qSZ/cover-4-1.png"
+        ]
+      },
+      "5": {
+        "covers": [
+          "https://i.ibb.co/Df3YqjZB/cover-5.jpg",
+          "https://i.ibb.co/fcbfnQF/cover-5-1.png"
+        ]
+      },
+      "6": {
+        "covers": [
+          "https://i.ibb.co/fRrQ46g/cover-6.jpg",
+          "https://i.ibb.co/GvzGYZQ3/cover-6-1.png"
+        ]
+      },
+      "7": {
+        "covers": [
+          "https://i.ibb.co/2YZK0Vqx/cover-7.jpg",
+          "https://i.ibb.co/4gR6YNgd/cover-7-1.png"
+        ]
+      },
+      "8": {
+        "covers": [
+          "https://i.ibb.co/HftS0Lbx/cover-8.jpg",
+          "https://i.ibb.co/PZ5Mg58G/cover-8-1.png"
+        ]
+      },
+      "9": {
+        "covers": [
+          "https://i.ibb.co/whhMd5Lx/cover-9-1.jpg",
+          "https://i.ibb.co/fdgWxNcJ/cover-9-1.png"
+        ]
+      },
+      "10": {
+        "covers": [
+          "https://i.ibb.co/Qjj1ZjHc/cover-10.jpg",
+          "https://i.ibb.co/BV1jHMRc/cover-10-1.png"
+        ]
+      },
+      "11": {
+        "covers": [
+          "https://i.ibb.co/rfZ18qL3/cover-11.jpg",
+          "https://i.ibb.co/DH0cfMRg/cover-11-1.png"
+        ]
+      },
+      "12": {
+        "covers": [
+          "https://i.ibb.co/xtxZ01Sf/cover-12.jpg"
+        ]
+      },
+      "13": {
+        "covers": [
+          "https://i.ibb.co/zYcznHR/cover-13.jpg"
+        ]
+      },
+      "14": {
+        "covers": [
+          "https://i.ibb.co/k27gh3Hh/cover-14.jpg"
+        ]
+      },
+      "15": {
+        "covers": [
+          "https://i.ibb.co/spVd066F/cover-15.jpg"
+        ]
+      },
+      "16": {
+        "covers": [
+          "https://i.ibb.co/YFwd2sGJ/cover-16.jpg"
         ]
       }
     }
